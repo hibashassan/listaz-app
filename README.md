@@ -2,6 +2,8 @@
 
 # ListAZ: Shared Lists
 
+**[Download on the App Store](https://apps.apple.com/app/listaz-shared-lists/id6818979595)**
+
 An iPhone app for the lists you share with the people you live with: groceries, books to read, gift ideas and home to-dos.
 
 - Share any list with an invite link on WhatsApp or iMessage. Changes show up on everyone's phone instantly.
